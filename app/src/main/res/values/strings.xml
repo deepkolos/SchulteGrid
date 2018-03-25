@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Schulte Grid</string>
+    <string name="app_name_cn">舒尔特方格</string>
+    <string name="setting_difficulty">难度</string>
+    <string name="setting_size">大小</string>
+    <string name="setting_history">历史成绩</string>
+    <string name="setting_about">关于</string>
+    <string name="difficulty_easy">容易</string>
+    <string name="difficulty_normal">一般</string>
+    <string name="difficulty_hard">困难</string>
+    <string name="start">开始</string>
+    <string name="again">再来</string>
+    <string name="ready">准备</string>
+    <string name="size_3_3">3x3</string>
+    <string name="size_4_4">4x4</string>
+    <string name="size_5_5">5x5</string>
+    <string name="size_6_6">6x6</string>
+    <string name="time">时间</string>
+    <string name="score">成绩</string>
+</resources>
